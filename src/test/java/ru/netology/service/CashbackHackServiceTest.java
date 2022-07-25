@@ -6,7 +6,4 @@ import static org.junit.Assert.*;
 
 public class CashbackHackServiceTest {
 
-    @Test
-    public void remain() {
-    }
 }
